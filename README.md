@@ -1,7 +1,7 @@
 # Sprint 10 - Projeto 10/17 BootCamp TripleTen de Ciências de Dados
 
 <p align="center">
-<img src="https://github.com/Angelaidt/Sprint-10-OilyGiant/commit/fcd899ae572540034cceb597e623e8f58f474e62"
+<img src="https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/oilygiant.png"
 </p>
 
 
@@ -22,15 +22,19 @@ Seleção: A função de lucro foi projetada para simular a decisão real: selec
 Veja os dados utilizados : 
 
 ![Dados Sprint 10 - arquivo I CSV](https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/geo_data_0.csv)
+
 ![Dados Sprint 10 - arquivo I CSV](https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/geo_data_1.csv)
+
 ![Dados Sprint 10 - arquivo I CSV](https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/geo_data_2.csv)
 
 # 🚀 Tecnologias
 📄 Bibliotecas: 
+--Pandas
+--Numpy
+--Matplotlib
+--Seaborn
+--Sklearn
 
---Pandas 
-
---Scikit-learn
 
 ⚡️ Jupyter Notebook
 
