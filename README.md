@@ -1,7 +1,7 @@
 # Sprint 10 - Projeto 10/17 BootCamp TripleTen de Ciências de Dados
 
 <p align="center">
-<img src="https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/imagem%20projeto"
+<img src="https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/projeto.png"
 </p>
 
 
