@@ -1,5 +1,8 @@
 # Sprint 10 - Projeto 10/17 BootCamp TripleTen de Ciências de Dados
 
+<p align="center">
+<img src="https://github.com/Angelaidt/Sprint-10-OilyGiant/commit/fcd899ae572540034cceb597e623e8f58f474e62"
+</p>
 
 
 🚀 Resumo do Projeto: OilyGiant - Otimização de Exploração de Petróleo
@@ -14,3 +17,21 @@ Modelagem: Aplicação de Regressão Linear para prever o volume de reservas (pr
 Análise de Risco: Uso da técnica Bootstrapping (1000 simulações) para calcular a distribuição de lucro e a probabilidade de prejuízo.
 
 Seleção: A função de lucro foi projetada para simular a decisão real: selecionar apenas os 200 poços com as maiores predições, mas calcular o lucro com base nos seus volumes reais de reserva.
+
+# Estrutura do Repositório
+Veja os dados utilizados : 
+
+![Dados Sprint 10 - arquivo I CSV](https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/geo_data_0.csv)
+![Dados Sprint 10 - arquivo I CSV](https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/geo_data_1.csv)
+![Dados Sprint 10 - arquivo I CSV](https://github.com/Angelaidt/Sprint-10-OilyGiant/blob/main/geo_data_2.csv)
+
+# 🚀 Tecnologias
+📄 Bibliotecas: 
+
+--Pandas 
+
+--Scikit-learn
+
+⚡️ Jupyter Notebook
+
+⚡️ VsCode
